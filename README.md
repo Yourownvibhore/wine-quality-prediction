@@ -3,20 +3,8 @@
 ## Overview
 This Jupyter Notebook (`wine_quality_prediction.ipynb`) provides a comprehensive analysis and prediction model for wine quality based on various features. The dataset used in this project includes information about different attributes of wines and their corresponding quality ratings.
 
-## Dependencies
-Make sure you have the following Python libraries installed before running the notebook:
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-- jupyter
-
-You can install them using the following command:
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-Dataset
-The dataset contains the following columns:
+- ## Dataset
+The dataset used for this analysis is included in the repository (wine_dataset.csv). It contains the following columns:
 
 fixed acidity
 volatile acidity
@@ -31,6 +19,20 @@ sulphates
 alcohol
 quality (target variable)
 Usage
+
+## Dependencies
+Make sure you have the following Python libraries installed before running the notebook:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- jupyter
+
+You can install them using the following command:
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter.
+
 Clone this repository:
 
 bash
@@ -50,5 +52,3 @@ The notebook includes visualizations, analysis, and the trained model's performa
 Acknowledgments
 The dataset used in this project is sourced from source-link.
 https://www.kaggle.com/datasets/rajyellow46/wine-quality
-
-Feel free to reach out for any questions or feedback!
