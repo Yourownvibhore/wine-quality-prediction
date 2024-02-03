@@ -3,7 +3,7 @@
 ## Overview
 This Jupyter Notebook (`wine_quality_prediction.ipynb`) provides a comprehensive analysis and prediction model for wine quality based on various features. The dataset used in this project includes information about different attributes of wines and their corresponding quality ratings.
 
-- ## Dataset
+## Dataset
 The dataset used for this analysis is included in the repository (wine_dataset.csv). It contains the following columns:
 
 fixed acidity
